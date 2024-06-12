@@ -9,40 +9,34 @@ This is the first post in a Quarto blog. Welcome!
 
 ![](thumbnail.jpg)
 
-
-
-
-
-- **No-code interactive data visualization with Flourish.**
-  - Data viz is important.
-  - I think any scalable center will need highly interactive data viz that doesn't require very high coding skills.
-  - **Precedent for Flourish:** I took a look at their platform, and all their data visualization was done with Flourish, which is a service you actually told me about. There are now several precedents for using this platform for Climate research:
-    1. Lancet count down
-    2. Boston University Center for Climate and Health.
-  - As we are designing the integrated repository, I think it's a good idea to invest in a no-code data viz.
-  - Flourish also has no-code Scrollies.
-  - We could have workshops around no-code data visualization as a dissemination tool.
-  - See: [BU Workshop](https://www.bu.edu/hic/visualizing-data-stories-for-climate-change-and-health-using-flourish-a-hands-on-workshop/)
-
-- **CCUH domain.** I think it would be great to start talking about a CCUH domain name where we can attach online content that CCUH is generating, for example:
-  - **Drexel Site core site:**
-    - Current: [Climate Center](https://drexel.edu/uhc/initiatives/climate-change-urban-health/climate-center/)
-    - Could be: ccuh.org or drexel.ccuh.org
-  - **Infrastructure documentation:**
-    - Current: [CCUH Data Infrastructure](https://drexel-uhc.github.io/ccuh-data-infrastructure/)
-    - Could be: docs.ccuh.org
-  - **Developers blog site:**
-    - Could be: dev.cuuh.org
-  - **Integrated repository site:**
-    - Could be: ccuh.org or portal.ccuh.org or repo.ccuh.org
-  - **Integrated repo infrastructure tests with WordPress as a Headless CMS**
-
-
-- Wordpress integration for CMS features
-  - we should off load as much content management to PM as possible and giving them a tool like wordpress to control content is paramount
-  - It is an estbalished tech stack of wordpress as headless CMS and using next.js are a front end frme work:
-      - https://codedamn.com/news
-      - https://www.youtube.com/watch?v=cxm6FNyKzwA
-  
-- Next.js
-  - what is the value fo a custom front end? we cna control.
+-   **No-code interactive data visualization (Flourish)**
+    -   Data viz is important.
+    -   I think any scalable center will need highly interactive data viz that doesn't require very high coding skills.
+    -   **Precedent for Flourish:** I took a look at their platform, and all their data visualization was done with Flourish, which is a service you actually told me about. There are now several precedents for using this platform for Climate research:
+        1.  Lancet count down
+        2.  Boston University Center for Climate and Health.
+    -   As we are designing the integrated repository, I think it's a good idea to invest in a no-code data viz.
+    -   Flourish also has no-code Scrollies.
+    -   We could have workshops around no-code data visualization as a dissemination tool.
+    -   See: [BU Workshop](https://www.bu.edu/hic/visualizing-data-stories-for-climate-change-and-health-using-flourish-a-hands-on-workshop/)
+-   **CCUH domain.** I think it would be great to start talking about a CCUH domain name where we can attach online content that CCUH is generating, for example:
+    -   **Drexel Site core site:**
+        -   Current: [Climate Center](https://drexel.edu/uhc/initiatives/climate-change-urban-health/climate-center/)
+        -   Could be: ccuh.org or drexel.ccuh.org
+    -   **Infrastructure documentation:**
+        -   Current: [CCUH Data Infrastructure](https://drexel-uhc.github.io/ccuh-data-infrastructure/)
+        -   Could be: docs.ccuh.org
+    -   **Developers blog site:**
+        -   Could be: dev.cuuh.org
+    -   **Integrated repository site:**
+        -   Could be: ccuh.org or portal.ccuh.org or repo.ccuh.org
+    -   **Integrated repo infrastructure tests with WordPress as a Headless CMS**
+-    **Headless CMS (Wordpress.com)**
+    -   we should off load as much content management to PM as possible and giving them a tool like word press to control content is paramount
+    -   It is an established tech stack of wordpress as headless CMS and using next.js are a front end framework:
+        -   https://codedamn.com/news
+        -   https://www.youtube.com/watch?v=cxm6FNyKzwA
+-   **Frontend (Next.js)**
+    -   what is the value fo a custom front end? we can control.
+-   **Data repository (Harvard Dataverse)**
+    -   Thinking long term this is stable and easy to implement.
