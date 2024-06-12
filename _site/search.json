@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Design Day 1 blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\n\nNo-code interactive data visualization with Flourish.\n\nData viz is important.\nI think any scalable center will need highly interactive data viz that doesn’t require very high coding skills.\nPrecedent for Flourish: I took a look at their platform, and all their data visualization was done with Flourish, which is a service you actually told me about. There are now several precedents for using this platform for Climate research:\n\nLancet count down\nBoston University Center for Climate and Health.\n\nAs we are designing the integrated repository, I think it’s a good idea to invest in a no-code data viz.\nFlourish also has no-code Scrollies.\nWe could have workshops around no-code data visualization as a dissemination tool.\nSee: BU Workshop\n\nCCUH domain. I think it would be great to start talking about a CCUH domain name where we can attach online content that CCUH is generating, for example:\n\nDrexel Site core site:\n\nCurrent: Climate Center\nCould be: ccuh.org or drexel.ccuh.org\n\nInfrastructure documentation:\n\nCurrent: CCUH Data Infrastructure\nCould be: docs.ccuh.org\n\nDevelopers blog site:\n\nCould be: dev.cuuh.org\n\nIntegrated repository site:\n\nCould be: ccuh.org or portal.ccuh.org or repo.ccuh.org\n\nIntegrated repo infrastructure tests with WordPress as a Headless CMS\n\nWordpress integration for CMS features\n\nwe should off load as much content management to PM as possible and giving them a tool like wordpress to control content is paramount\nIt is an estbalished tech stack of wordpress as headless CMS and using next.js are a front end frme work:\n\nhttps://codedamn.com/news\nhttps://www.youtube.com/watch?v=cxm6FNyKzwA\n\n\nNext.js\n\nwhat is the value fo a custom front end? we cna control."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "CCUH Developer Blog",
+    "section": "",
+    "text": "Post With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nJun 12, 2024\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nDesign Day 1 blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJun 12, 2024\n\n\nRan Li\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  }
+]
